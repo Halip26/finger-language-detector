@@ -1,4 +1,12 @@
-# **Machine Learning: A Comprehensive Explanation**
+# Finger Languange Detector using MLforkid API
+
+The project is able to recognize finger gestures from camera captures.
+
+## Preview
+
+![Screenshot](assets/Screenshot%202024-08-28%20164725.png)
+
+## **Machine Learning: A Comprehensive Explanation**
 
 **Introduction**
 Machine Learning is a subset of artificial intelligence that allows systems to learn from data without being explicitly programmed. In simpler terms, it's the ability of machines to learn from experience, identify patterns in data, and make decisions with minimal human intervention.
