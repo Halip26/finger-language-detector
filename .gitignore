@@ -3,4 +3,4 @@ __pycache__/
 
 *.jpg
 
-api.key
+api.py
